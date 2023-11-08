@@ -1,16 +1,29 @@
-### Hi there 👋
+<!--<h3>
+ <img src="assets/hello.gif" width="64"/>
+  Hi, I'm Doraemon
+</h3>-->
 
-<!--
-**magicdoraemon/magicdoraemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--<h3>
+ <img src="assets/drag.gif" width="64"/>
+  Hi, I'm Doraemon
+</h3>-->
 
-Here are some ideas to get you started:
+<h3>
+ <img src="https://p.ipic.vip/0zcwds.gif" width="64"/>
+  Hi, I'm Doraemon
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 I live in Kyoto, Japan.
+
+🏢 I’m an engineer work at Nintendo.
+
+🖥 I’m an iOS、macOS、Android、Electron and Flutter developer.
+
+**My Github Stats:**
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=magicdoraemon&count_private=true&show_icons=true&theme=buefy&hide=contribs,prs,issues)](https://github.com/magicdoraemon) 
+
+**I Used Languages:**
+
+[![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=magicdoraemon&layout=compact&langs_count=8&theme=buefy)](https://github.com/magicdoraemon)
+
